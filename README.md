@@ -1,4 +1,3 @@
-=======
 ## Sistema Administração Escolar
 
 Um sistema básico de gerenciamento acadêmico para administrar alunos, professores, turmas, disciplinas e notas, utilizando Python, SQLAlchemy e um banco de dados SQLite.
